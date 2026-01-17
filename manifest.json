@@ -1,0 +1,24 @@
+
+{
+  "name": "Milk Diary i.t",
+  "short_name": "MilkDiary",
+  "description": "A professional milk delivery tracking application with billing and WhatsApp integration.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "https://api.screenshotone.com/take?url=https%3A%2F%2Fv0.dev%2Fchat%2F&image_width=192&image_height=192&access_key=dummy",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://api.screenshotone.com/take?url=https%3A%2F%2Fv0.dev%2Fchat%2F&image_width=512&image_height=512&access_key=dummy",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
